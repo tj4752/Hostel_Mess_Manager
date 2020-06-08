@@ -2,6 +2,8 @@
 
 An app for keeping records of users and calculate total expense of each user at the end of month.
 
+Link to the spreadsheet:- https://docs.google.com/spreadsheets/u/0/d/1a4uN8j-sx0mYs4iLM5057fZUz13T4JKviGm58Dw3Mew/htmlview#gid=0
+
 # Screenshots
 
 ![Screenshot_20200608-174737](https://user-images.githubusercontent.com/32940477/84032218-9e1b0600-a9b4-11ea-9a3a-8c8801b82a3e.jpg)
